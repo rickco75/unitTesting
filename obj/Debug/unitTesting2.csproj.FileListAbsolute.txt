@@ -1,0 +1,2 @@
+c:\users\rick\documents\visual studio 2015\Projects\unitTesting2\unitTesting2\bin\Debug\unitTesting2.exe.config
+c:\users\rick\documents\visual studio 2015\Projects\unitTesting2\unitTesting2\obj\Debug\unitTesting2.csprojResolveAssemblyReference.cache
